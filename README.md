@@ -11,3 +11,7 @@ Step 3: Copy or move `cst816d.cpp` From the **Repo** To ->
 Windows: `%USERPROFILE%\Documents\Arduino` | Linux: `~/Documents/Arduino/` -> `.../Arduino/libraries/cst816d/src/cst816d.cpp` <- Replace the **Local** with the in the Repo
 
 Step 4: Open Arduino Project, and upload the code to **ESP32-2432S024**
+
+---
+
+![SHOWCASE](https://raw.githubusercontent.com/x4raynixx/ESP32-2432S024_Example/refs/heads/master/images/show.gif)
